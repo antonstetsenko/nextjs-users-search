@@ -2,7 +2,7 @@
 
 A Next.js application that displays a searchable list of users with a favorites feature. Built with the App Router architecture, demonstrating the separation between Server and Client Components.
 
-**[Live Demo](https://nextjs-users-search-m96rzyu15-antonstetsenkos-projects.vercel.app/)**
+**[Live Demo](https://nextjs-users-search-git-main-antonstetsenkos-projects.vercel.app/)**
 
 ## Tech Stack
 
